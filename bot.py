@@ -34,4 +34,4 @@ async def on_message(message):
                 avatar_url=message.author.avatar_url_as(format="png"))
 
 # Botの起動とDiscordサーバーへの接続
-client.run('NjcxODQ2MTY2Nzc3ODIzMjcy.XlzYwg.O1DGgtCvLhcQT1xisIhQfmIImm4')
+client.run('NjcxODQ2MTY2Nzc3ODIzMjcy.XlzlcA.pHiQM6ke8JmaErh8Inq_nR-e-vY')
