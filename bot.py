@@ -2,7 +2,7 @@ import discord
 
 client = discord.Client()
 
-TAKEN = 'NjcxODQ2MTY2Nzc3ODIzMjcy.XlzlxQ.IN_nl-Cll99eUVsgcuEIcolnU2Q'
+TAKEN = 'NjcxODQ2MTY2Nzc3ODIzMjcy.XlzoTw.JoXy0ttf5g0YJUMpfhxmEvfw7Hc'
 
 @client.event
 async def on_ready():
