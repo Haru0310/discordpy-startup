@@ -2,6 +2,8 @@ import discord
 
 client = discord.Client()
 
+TAKEN = 'NjcxODQ2MTY2Nzc3ODIzMjcy.XlzlxQ.IN_nl-Cll99eUVsgcuEIcolnU2Q'
+
 @client.event
 async def on_ready():
     # 起動したらターミナルにログイン通知が表示される
@@ -34,4 +36,4 @@ async def on_message(message):
                 avatar_url=message.author.avatar_url_as(format="png"))
 
 # Botの起動とDiscordサーバーへの接続
-client.run('NjcxODQ2MTY2Nzc3ODIzMjcy.XlzlxQ.IN_nl-Cll99eUVsgcuEIcolnU2Q')
+client.run(TAKEN)
